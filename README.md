@@ -3,6 +3,6 @@
 
 # NOTES:
 - File upload to Github was not possible due to platform issues.
-- Kindly access the assessment using th Onedrive link above.
+- Kindly access the assessment using the Onedrive link above.
 
 # THANK YOU!
